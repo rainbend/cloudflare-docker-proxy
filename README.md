@@ -46,4 +46,3 @@ We will provide updates as soon as more information becomes available.
      "ghcr.libcuda.so": "https://ghcr.io",
    };
    ```
-
